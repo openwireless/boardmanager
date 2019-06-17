@@ -16,7 +16,7 @@
 
 # Arduino/Genuino Zero (Native USB Port)
 # --------------------------------------
-arduino_zero_native.name=Arduino Zero(Native USB Port)/SGIM
+arduino_zero_native.name=SGIM(Arduino Zero compatible)
 arduino_zero_native.vid.0=0x2341
 arduino_zero_native.pid.0=0x804d
 arduino_zero_native.vid.1=0x2341
