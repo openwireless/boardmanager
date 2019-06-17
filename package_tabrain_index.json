@@ -1,0 +1,84 @@
+{
+  "packages": [
+    {
+      "name": "Tabraino",
+      "maintainer": "@605e",
+      "websiteURL": "http://tabrain.jp/",
+      "email": "info@tabrain.jp",
+      "help": {
+        "online": "http://tabrain.jp/"
+      },
+      "platforms": [
+        {
+          "name": "Tabraino AVR(ATmega) Board by TABrain",
+          "architecture": "avr",
+          "version": "2.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://tabrain.jp/new/product/TABRAINO.html"
+          },
+          "url": "http://tabrain.jp/products/config/tabraino_2.0.zip",
+          "archiveFileName": "tabraino_2.0.zip",
+          "checksum": "SHA-256:554A7ED1D514B3DDDBBE8C63CFE7E0BEA523704D4BF2E4A1DEA2D9B78B93D09D",
+          "size": "250393",
+          "boards": [
+            {"name": "Tabraino (V2)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+		
+        {
+          "name": "IoTAB ARM(Cortex-M0+) Board by TABrain",
+          "architecture": "samd",
+          "version": "1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://3gim.wiki/doku.php?id=iotab_v1"
+          },
+          "url": "http://tabrain.jp/products/config/iotab_1.0.zip",
+          "archiveFileName": "iotab_1.0.zip",
+          "checksum": "SHA-256:220A70E31E74930DBDC713CDA6999F74C54F7176D90ADEC740098781289C6548",
+          "size": "3573701",
+          "boards": [
+            {"name": "IoTAB (V1)"}
+          ],
+          "toolsDependencies": [
+          ]
+		}
+        
+        {
+          "name": "SGIM (Cortex-M0+) Board by TABrain",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://3gim.wiki/doku.php?id=sgim_v1"
+          },
+          "url": "https://github.com/openwireless/boardmanager/raw/master/sgim-1.0.0.zip",
+          "archiveFileName": "sgim-1.0.0.zip",
+          "checksum": "SHA-256:1042c50f26c70d0f604b057feb188c21e09a05ca279b001966940ec911634f8a",
+          "size": "1225481",
+          "boards": [
+            {"name": "SGIM (V1)"}
+          ],
+          "toolsDependencies": [
+          ]
+		}        
+      ],
+	  
+      "tools": []
+    }
+  ]
+}
+
