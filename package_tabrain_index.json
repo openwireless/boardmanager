@@ -29,7 +29,7 @@
 		},
         {
           "name": "IoTAB (Cortex-M0+) Board by TABrain",
-          "architecture": "samd",
+          "architecture": "samd2",
           "version": "2.0.0",
           "category": "Contributed",
           "help": {
