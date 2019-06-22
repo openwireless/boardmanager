@@ -1,14 +1,14 @@
 {
   "packages": [
     {
-      "name": "Tabrain",
+      "name": "Tabrain samd/avr boards",
       "maintainer": "@605e",
       "websiteURL": "http://tabrain.jp/",
       "email": "info@tabrain.jp",
       "help": {
         "online": "http://tabrain.jp/"
       },
-      "platforms": [        
+      "platforms": [
         {
           "name": "SGIM (Cortex-M0+) Board by TABrain",
           "architecture": "samd",
@@ -19,10 +19,28 @@
           },
           "url": "https://github.com/openwireless/boardmanager/raw/master/sgim-1.0.0.zip",
           "archiveFileName": "sgim-1.0.0.zip",
-          "checksum": "SHA-256:B7F47A459B48C70558B3E694E4B05FA577F6772A04BAAB180BA4C70AD84952C5",
-          "size": "1228978 ",
+          "checksum": "SHA-256:DEAB8E1E0B538E9F60597826F3DC0C1633DFD9D0DF939D088E23387DC01C3339",
+          "size": "1228473",
           "boards": [
             {"name": "SGIM (V1)"}
+          ],
+          "toolsDependencies": [
+          ]
+		},
+        {
+          "name": "IoTAB (Cortex-M0+) Board by TABrain",
+          "architecture": "samd",
+          "version": "2.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://3gim.wiki/doku.php?id=iotab_v2"
+          },
+          "url": "https://github.com/openwireless/boardmanager/raw/master/iotab-2.0.0.zip",
+          "archiveFileName": "iotab-2.0.0.zip",
+          "checksum": "SHA-256: 28B80AF14B47308C87138D6821D7448DA3343481F6A0C7B23DDD5E451791E7D7",
+          "size": "(1263275",
+          "boards": [
+            {"name": "IoTAB (V2)"}
           ],
           "toolsDependencies": [
           ]
