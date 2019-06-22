@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Tabrain samd/avr boards",
+      "name": "Tabrain",
       "maintainer": "@605e",
       "websiteURL": "http://tabrain.jp/",
       "email": "info@tabrain.jp",
