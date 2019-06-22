@@ -37,7 +37,7 @@
           },
           "url": "https://github.com/openwireless/boardmanager/raw/master/iotab-2.0.0.zip",
           "archiveFileName": "iotab-2.0.0.zip",
-          "checksum": "SHA-256: 28B80AF14B47308C87138D6821D7448DA3343481F6A0C7B23DDD5E451791E7D7",
+          "checksum": "SHA-256:28B80AF14B47308C87138D6821D7448DA3343481F6A0C7B23DDD5E451791E7D7",
           "size": "1263275",
           "boards": [
             {"name": "IoTAB (V2)"}
