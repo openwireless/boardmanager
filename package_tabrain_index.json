@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Tabraino",
+      "name": "Tabrain",
       "maintainer": "@605e",
       "websiteURL": "http://tabrain.jp/",
       "email": "info@tabrain.jp",
@@ -20,7 +20,7 @@
           "url": "https://github.com/openwireless/boardmanager/raw/master/sgim-1.0.0.zip",
           "archiveFileName": "sgim-1.0.0.zip",
           "checksum": "SHA-256:B7F47A459B48C70558B3E694E4B05FA577F6772A04BAAB180BA4C70AD84952C5",
-          "size": "(1228978 ",
+          "size": "1228978 ",
           "boards": [
             {"name": "SGIM (V1)"}
           ],
