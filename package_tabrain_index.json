@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/openwireless/boardmanager/raw/master/sgim-1.0.0.zip",
           "archiveFileName": "sgim-1.0.0.zip",
-          "checksum": "SHA-256:f892cdf15690d26ca09127d7d589b76877ff5cd4c825d1090e735dbd35aeaa35",
-          "size": "1225481",
+          "checksum": "SHA-256:D721529AB0FC1D525B55797958E01297039D348F06EB3013EBA258C828CC17EC",
+          "size": "1233024",
           "boards": [
             {"name": "SGIM (V1)"}
           ],
