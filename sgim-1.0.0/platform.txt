@@ -19,7 +19,7 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
-name=TABrain SAMD(Cortex-M0+) Boards
+name=TABrain Sigfox (Cortex-M0+) Boards
 version=1.8.1
 
 # Compile variables

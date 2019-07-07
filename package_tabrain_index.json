@@ -10,8 +10,8 @@
       },
       "platforms": [
         {
-          "name": "SGIM (Cortex-M0+) Board by TABrain",
-          "architecture": "samd",
+          "name": "LPWA (Cortex-M0+) Board by TABrain",
+          "architecture": "lpwa-samd",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/openwireless/boardmanager/raw/master/sgim-1.0.0.zip",
           "archiveFileName": "sgim-1.0.0.zip",
-          "checksum": "SHA-256:DEAB8E1E0B538E9F60597826F3DC0C1633DFD9D0DF939D088E23387DC01C3339",
-          "size": "1228473",
+          "checksum": "SHA-256:D20B572F552C6E014060322BA0C562103CB5ABD48F7C06FE19724655A695C887",
+          "size": "1229056",
           "boards": [
             {"name": "SGIM (V1)"}
           ],
@@ -29,7 +29,7 @@
 		},
         {
           "name": "IoTAB (Cortex-M0+) Board by TABrain",
-          "architecture": "samd2",
+          "architecture": "samd",
           "version": "2.0.0",
           "category": "Contributed",
           "help": {
